@@ -1,6 +1,8 @@
 # Ryedu-intern
-change the mongodb url in .env
-install all dependencies and use npm start to start the server
+change the mongodb url in .env  
+install all dependencies and use npm start to start the server.
+
+I have used Geoapify for distance matrix
 # Assumptions
 # 1. There are only 5 cities that is mentioned at last of pdf.
 # 2. Flagged city is an array 
